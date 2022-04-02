@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "505071330279",
+    "project_id": "fir-phone-auth-3eb9f",
+    "storage_bucket": "fir-phone-auth-3eb9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505071330279:android:f8428721b74425c8f31342",
+        "android_client_info": {
+          "package_name": "com.amarmane.firebasephoneauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505071330279-ac0jr6hdumik22rvcu7k5g0s8p1eb5jk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amarmane.firebasephoneauth",
+            "certificate_hash": "159881c74cfca1a6d0cb1b02e99ae68b00ed4e0f"
+          }
+        },
+        {
+          "client_id": "505071330279-jfd66sb0akpqe4ksndleb8g88s2d92p9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO_IFOFnzP20lLy3060xJw63GqRM4_OCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505071330279-jfd66sb0akpqe4ksndleb8g88s2d92p9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

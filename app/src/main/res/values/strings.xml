@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Firebase Phone Auth</string>
+    <string name="didn_t_get_otp_resend">Didn\'t Get OTP? <b>Resend</b></string>
+</resources>
